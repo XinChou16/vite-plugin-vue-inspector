@@ -13,7 +13,7 @@
   "devDependencies": {
     "sass": "^1.59.3",
     "unplugin-vue-inspector": "workspace:*",
-    "vite-plugin-vue-inspector": "workspace:*",
+    "vite-plugin-vue-inspect": "workspace:*",
     "vite-plugin-vue2": "^1.9.3"
   }
 }
