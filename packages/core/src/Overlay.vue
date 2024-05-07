@@ -265,10 +265,10 @@ export default {
       <a
         :style="bannerPosition"
         class="vue-inspector-banner vue-inspector-card"
-        href="https://github.com/webfansplz/vite-plugin-vue-inspector"
+        href="https://github.com/webfansplz/vite-plugin-vue-inspect"
         target="_blank"
       >
-        <div>vite-plugin-vue-inspector</div>
+        <div>vite-plugin-vue-inspect</div>
         <div class="tip">Click on a element › Open IDE › Link to File</div>
       </a>
     </div>

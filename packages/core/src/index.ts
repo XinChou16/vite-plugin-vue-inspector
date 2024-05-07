@@ -128,7 +128,7 @@ function VitePluginInspector(options: VitePluginInspectorOptions = DEFAULT_INSPE
   } = normalizedOptions
 
   return {
-    name: 'vite-plugin-vue-inspector',
+    name: 'vite-plugin-vue-inspect',
     enforce: 'pre',
     apply(_, { command }) {
       // apply only on serve and not for test

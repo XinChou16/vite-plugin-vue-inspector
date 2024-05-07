@@ -1,5 +1,5 @@
 import { green, yellow } from 'kolorist'
-import { DEFAULT_INSPECTOR_OPTIONS, normalizeComboKeyPrint } from 'vite-plugin-vue-inspector'
+import { DEFAULT_INSPECTOR_OPTIONS, normalizeComboKeyPrint } from 'vite-plugin-vue-inspect'
 import type { Options } from './types'
 import unplugin from '.'
 
