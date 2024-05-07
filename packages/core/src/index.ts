@@ -111,7 +111,7 @@ export const DEFAULT_INSPECTOR_OPTIONS: VitePluginInspectorOptions = {
   toggleButtonVisibility: 'active',
   toggleButtonPos: 'top-right',
   appendTo: '',
-  babelPlugins: [] as any []
+  babelPlugins: [] as any [],
   openInEditorHost: false,
 } as const
 
